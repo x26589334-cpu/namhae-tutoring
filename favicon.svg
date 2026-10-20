@@ -1,4 +1,1 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
-<rect width="64" height="64" rx="14" fill="#3f8a6a"/>
-<text x="32" y="42" font-family="'Malgun Gothic','Apple SD Gothic Neo','Noto Sans KR',sans-serif" font-size="23" font-weight="700" letter-spacing="-1" fill="#fff" text-anchor="middle">남해</text>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64"><rect width="64" height="64" rx="14" fill="#3f8a6a"/><g stroke="#fff" stroke-width="4.2" fill="none" stroke-linecap="round"><path d="M12 21 q20 -7 40 0"/><path d="M10 30 q22 -7 44 0"/><path d="M8 39 q24 -7 48 0"/></g><path d="M9 51 q5.75 -4 11.5 0 t11.5 0 t11.5 0 t11.5 0" stroke="#fff" stroke-width="3" fill="none" stroke-linecap="round" opacity="0.85"/></svg>
